@@ -1,0 +1,121 @@
+    BODY {
+      background: #6191e8 url("wuntsah_bo_back.jpg");
+      margin: 0px;
+      padding: 0px;
+    }
+
+	A {
+	   font-weight: bold;
+	  }
+
+	P {
+	   text-indent: 0.3cm;
+	  }
+
+    .BioToolbar {
+       background: url("info_bg.jpg");
+       font-family: Helvetica, Palatino Linotype, Arial;
+       font-size: xx-small;
+	   border: 1px;
+	   border-color: black;
+	   border-style: solid;
+	   padding: 4px;
+    }
+
+    .BioToolbar A {
+	   font-size: xx-small;
+       font-weight: bold;
+       color: #663366;
+    }
+
+    .BioToolbar A:hover {
+       color: #09CCFF;
+       background: black;
+    }
+
+    .BioToolbar H3 {
+       margin: 0px;
+       margin-top: 15px;
+       padding: 0px;
+    }
+
+    .DetailsDiv {
+       background: url("info_bg.jpg");
+	   top: 0px;
+	   padding: 5px;
+	   font-size: xx-small;
+	   border: 1px;
+	   border-color: black;
+	   border-style: solid;
+	}
+
+    .DetailsDiv TH, TD {
+
+       font-family: Helvetica, Palatino Linotype, Arial;
+       font-size: xx-small;
+    }
+
+    .TitleToolbar {
+       background: #6534B0 url("purple.jpg");
+       border-bottom: 1px;
+       border-bottom-color: black;
+       border-bottom-style: solid;
+    }
+
+	.Past A {
+	   color:  #99FF00;
+	   font-weight: bold;
+	}
+
+	.Past A:hover IMG {
+	   border-color: #99FF00;
+	}
+
+    .PeriodMenu {
+       margin-left: 100px;
+    }
+
+    .PeriodMenu TD A {
+       font-weight: bold;
+       color: #99FF00;
+    }
+
+    .PeriodMenu TD A:hover {
+       color: #09CCFF;
+       background: black;
+    }
+
+    .PortraitContainer {
+      background: #C9FF00;
+      padding: 5px;
+      border-style: solid;
+      border-color: black;
+      border-width: 1px;
+    }
+
+    .Portrait {
+      border-style: solid;
+      border-color: black;
+      border-width: 1px;
+    }
+
+    .Blurb {
+      color: black;
+	  font-size: small;
+      font-family: Helvetica, Arial;
+      letter-spacing: -1px;
+      background: #C6FF00 url("bo_blurb_back.jpg");
+      padding: 10px;
+      border-style: solid;
+      border-color: black;
+      border-width: 1px;
+      width:  325px;
+    }
+
+    .BlurbTitle {
+	  font-size: medium;
+      font-weight: bold;
+      font-family: Helvetica, Arial;
+      padding-left: 15px;
+      margin-bottom: 5px;
+    }
